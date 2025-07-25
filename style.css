@@ -3,8 +3,10 @@ body {
     font-family: 'Courier New', Courier, monospace, sans-serif;
     color: #ffffff;
     text-align: center;
-    background-image(imagens/istockphoto-1326466266-612x612.jpg);
-    background-size: 60px 60px;
+    background-image: url('imagens/istockphoto-1326466266-612x612.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     padding: 20px;
     margin: 0;
 }
