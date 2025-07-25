@@ -3,10 +3,10 @@
             font-family: 'Courier New', Courier, monospace  , sans-serif;
                 color: #ffffff;
                     text-align: center;
-                        background-image:imagens/istockphoto-1326466266-612x612.jpg;
+                        background-image: url(imagens/istockphoto-1326466266-612x612.jpg);
                             background-size: 60px 60px;                      
-                                padding 20px;
-                                    margin : 0.
+                                padding: 20px;
+                                    margin: 0;
         }
         h1 {
             color: #000000;
