@@ -27,4 +27,28 @@ img {
     max-width: 100%;
     height: auto;
     margin: 10px 0;
+
+@media (max-width: 600px) {
+    body {
+        padding: 5px;
+        font-size: 1em;
+    }
+    h1 {
+        font-size: 1.3em;
+    }
+    h2 {
+        font-size: 1em;
+    }
+    p {
+        font-size: 1em;
+        padding: 5px;
+    }
+    img {
+        max-width: 95vw;
+        height: auto;
+        margin: 5px 0;
+        border-radius: 10px;
+    }
+
+
 }
